@@ -3,7 +3,7 @@
 ### 📍 Tamil Nadu, India | 📧 satvikchoudhary1111@gmail.com | [LinkedIn](https://www.linkedin.com/in/satvik-choudhary-2a2a51255/)
 
 ## 👨‍💻 About Me
-I'm a passionate **Electronics and Communication Engineering** student at VIT Vellore (Expected 2026) with a strong interest in **VLSI design, sensor technology, and software development**. I have experience in hardware design, front-end development, business analysis, and data science.
+I'm a passionate **Electronics and Communications Engineering** student at VIT Vellore (Expected 2026) with a strong interest in **VLSI design, sensor technology, and software development**. I have experience in hardware design, front-end development, business analysis, and data science.
 
 ## 🚀 Skills
 ### **Technical Skills**
